@@ -5,4 +5,4 @@ function getFactorial(a) {
 	return a*getFactorial(a-1);
 }
 
-console.log(getFactorial(5));	
+console.log(getFactorial(120));	
